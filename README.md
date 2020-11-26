@@ -12,7 +12,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
 ## Tutorial
 
- * [Tutorial](/microbit-phyphox/tutorial)
+ * [Tutorial](/microbit-phyphox/tutorial) anschauen oder  [starten](https://makecode.microbit.org/#tutorial:github:gitalm/microbit--phyphox/tutorial)
 
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/gitalm/microbit--phyphox/workflows/MakeCode/badge.svg)
 
