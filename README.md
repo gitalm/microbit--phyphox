@@ -10,6 +10,10 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/gitalm/microbit--phyphox** suchen und importieren
 
+## Tutorial
+
+ * [Tutorial](/microbit-phyphox/tutorial)
+
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/gitalm/microbit--phyphox/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
